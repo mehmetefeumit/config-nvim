@@ -13,7 +13,7 @@ are added, they will be in a folder tracked in `.gitignore`.
 git clone https://github.com/mehmetefeumit/config-nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
-details><summary> Windows </summary>
+<details><summary> Windows </summary>
 
 If you're using `cmd.exe`:
 
