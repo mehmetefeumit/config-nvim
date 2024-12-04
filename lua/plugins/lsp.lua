@@ -188,6 +188,10 @@ return {
 			terraformls = {},
 			jsonls = {},
 			yamlls = {},
+			gradle_ls = {},
+			jdtls = {},
+			kotlin_language_server = {},
+			smithy_ls = {},
 
 			lua_ls = {
 				-- cmd = {...},
